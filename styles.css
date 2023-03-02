@@ -1,0 +1,22 @@
+
+    body { 
+     margin-right:10%; 
+     margin-left:10%;
+     background-color: #E2FFFF;
+     font-family: Arial, Verdana, sans-serif;
+     color: #15495E;
+     }
+    h1 { 
+     line-height: 200%;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     text-indent: 1em;
+     background-color: #B0E6E6;
+     color: #237B7B;
+     text-shadow: 3px 3px 5px #000000;
+     }
+    h2 { 
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     background-color: #A265A2;
+     color: #F1E9F1;
+     text-align: center;
+     }
